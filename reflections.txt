@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+  I have learned html tagging, how to open a website on a local computer, and that you can download Chrome on a MAC.  I have also learned about Atom and Sublime.
+
+* What has been easy?
+
+Html tagging seems pretty straightforward so far.
+
+* What has been difficult?
+
+The full functionality of Atom seems a little difficult so far.
+
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+ I have googled for proper coding on the projects and quizzes noting some elements are deprecated.
+
